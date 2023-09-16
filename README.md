@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LukscomC
+- 👀 I’m interested in Computer Vision, Machine Learning, Web Aplications and Data Analysis
+- 🌱 I’m currently learning Flet
+- 📫 How to reach me lucasnun3s@ucl.br
